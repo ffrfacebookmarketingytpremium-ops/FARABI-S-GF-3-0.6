@@ -8,7 +8,7 @@ const API_KEYS = ['ADD YOUR API KEYS HERE - GET FROM https://cerebras.ai./'];
 
 // Boy Owners (Malik)
 const BOY_OWNERS = {
-  '100009012838085': { name: 'SARDAR', gender: 'boy' }
+  '61573781736874': { name: '𝐅𝐀𝐑𝐀𝐁𝐈', gender: 'boy' }
 };
 
 // Girl Owners (Malkin)
@@ -265,9 +265,7 @@ const funnyResponses = [
   "Bolo bolo, sun rahi hoon ✨",
   "Haan ji, kya baat hai? 🙂",
   "Mujhe kyun yaad kiya? 🥺",
-  "Acha, bolo kya baat hai 😊",
-  "Main busy thi thodi, ab bolo 💅",
-  `Haan ji, ${BOT_NAME} bol rahi hai 🤖✨`,
+  "Acha, bolo kya baat hai 😊", `Haan ji, ${BOT_NAME} bol rahi hai 🤖✨`,
   "Kya hua? Kuch khaas baat hai? 🤔",
   "Haan haan, main suno rahi hoon 👂✨",
   "Boloooo na, mujhe sunna hai! 🥰",
